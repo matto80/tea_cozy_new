@@ -22,7 +22,12 @@ body {
   width: 100%;
   background-color: black;
   border-bottom: 1px solid seashell;
+<<<<<<< HEAD
    z-index: 99;
+=======
+  position: fixed;
+  z-index: 99;
+>>>>>>> 83652098d4c723337c917acea718d687e38b99f8
 }
 
 .logo_container {
@@ -113,7 +118,10 @@ body {
 .tea_of_the_month_text {
   font-family: Helvetica;
   font-size: 28px;
+<<<<<<< HEAD
   font-weight: 900;
+=======
+>>>>>>> 83652098d4c723337c917acea718d687e38b99f8
   color: seashell;
   padding-top: 15px;
   z-index: 9;
@@ -122,6 +130,7 @@ body {
 .tea_of_the_month_sub_text {
   font-family: Helvetica;
   font-size: 22px;
+<<<<<<< HEAD
   font-weight: 900;
   color: seashell;
   padding-top: 15px;
@@ -254,3 +263,9 @@ body {
 }
 
 
+=======
+  color: seashell;
+  padding-top: 15px;
+  z-index: 9;
+}
+>>>>>>> 83652098d4c723337c917acea718d687e38b99f8
